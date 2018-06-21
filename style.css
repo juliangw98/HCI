@@ -133,6 +133,6 @@ img {
     display: flex;
 }
 
-#article {
+.article {
     margin-left: 50px;
 }
