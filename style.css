@@ -136,3 +136,14 @@ img {
 .article {
     margin-left: 50px;
 }
+@media screen and (max-width: 1180px) {
+    .flex {
+    display: flex;
+    flex-direction: column;    
+}
+    .article {
+    margin-top:  25px;
+        margin-bottom: 25px;
+    margin-left: 0px;    
+}
+}
