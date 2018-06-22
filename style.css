@@ -19,7 +19,7 @@ h1,
 h2,
 h3 {
     font-family: 'gilroyBold', sans-serif;
-    margin-top: 0px;
+    margin-top: 60px;
 }
 
 .width {
@@ -56,10 +56,15 @@ h3 {
     background-position: bottom;
 }
 
-img {
-    width: 600px;
-    height: 700px;
+figure {
+    width:50%;
+    
 }
+figure img {
+margin: 0 auto;
+    width: 100%;
+}
+
 #grouppic{
     width: 100%;
     height: 100%;
